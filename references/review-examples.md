@@ -1,49 +1,41 @@
-# Paper-writing review examples
+# Paper-writing examples
 
-These are constructed editorial examples. They illustrate judgement, not stock paragraphs or new empirical evidence.
+These constructed examples illustrate editorial choices, not stock paragraphs or new empirical findings.
 
-## Make the contribution assessable
+## Explain the idea through a situation
 
-Vague:
+A feature inventory:
 
-> We introduce a novel framework that comprehensively improves the process.
+> The system offers generation, direct editing, and version history.
 
-A useful revision needs facts: what the framework does, which problem it addresses, and what evidence or analysis the paper provides. If those facts are missing, ask a focused question or flag them. Replacing "novel" with "innovative" does not repair the argument. A design contribution can be described accurately without inventing a comparative experiment.
+An explanation, if these are the documented capabilities:
 
-## Separate a focused study from the work's purpose
+> After the assistant creates a document, users may notice a value that needs correcting. They can edit it directly and continue asking the assistant for changes. The next request uses the corrected document. Version history lets them inspect earlier changes and return to accepted work.
 
-Suppose the documented system supports a broad task, but the paper evaluates one activity with one participant group. Explain what that study examines and what can be concluded from it. Do not silently redefine the entire system as intended only for that activity, user group, or development stage. Do not imply that the study established benefits in untested settings either.
+The situation gives the features a purpose and shows how they work together. A later section can explain the underlying mechanism without making readers reconstruct the interaction first.
 
-## Explain a decision without inventing its rationale
+## Connect a major choice to its rationale
 
 Provided facts:
 
-> The study gave each participant both conditions. Their order was balanced to reduce order effects.
+> Participants tried both conditions. Their order was balanced to reduce order effects.
 
 A connected explanation:
 
 > Participants tried both conditions, with the order balanced across participants to reduce effects of practice or fatigue.
 
-This explains the documented methodological choice. If the materials only say that both conditions were used, do not invent reasons for that choice or claim that alternatives were considered and rejected.
+This explains the documented choice. Where its rationale is missing, ask what motivated it rather than adding a plausible decision history.
 
-## Preserve the meaning of a result
+## Make subheadings informative
 
-Provided evidence:
+A generic label such as "User feedback" identifies a broad topic. A heading such as "Participants valued the option to revise" states the finding the subsection will explain, if that is what the analysis establishes.
 
-> Participants reported greater perceived control. Confidence in correctness did not differ significantly.
+Use a functional heading such as "Comparing two revision workflows" where the subsection explains a method. Takeaway headings are an option for helping readers scan the argument, not a requirement for every subsection.
 
-An unsupported conclusion:
+## Connect the contribution to its broader significance
 
-> The system increased users' trust and ensured correct results.
+When a paper examines one activity or participant group, explain how that example develops the central idea. Keep the study's actual reach clear without redefining the whole work as exclusively intended for that activity or group.
 
-A faithful interpretation:
+## Keep interpretations precise
 
-> Participants felt more able to direct the work, while confidence in correctness did not differ significantly. These findings distinguish perceived control from confidence in the result.
-
-Preserve the measured constructs, uncertainty, and comparison. Do not infer equivalence from a nonsignificant difference or turn self-reports into objective guarantees. Further implications must remain proportionate to the design and evidence.
-
-## Check the abstract against the body
-
-If the results concern one task under specified conditions, an abstract should not silently turn them into a universal improvement. Keep the conditions needed to understand the claim. Conversely, a focused evaluation does not require describing every possible application as excluded from the work's purpose.
-
-Review wording, evidence, and author intent together. The aim is a clear and defensible contribution, not maximal qualification or maximal promotional force.
+If participants reported greater perceived control but confidence in correctness did not differ significantly, discuss what those outcomes mean separately. Do not silently turn them into a finding about trust or guaranteed correctness. The aim is a clear contribution whose meaning survives revision.
