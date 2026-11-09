@@ -44,6 +44,8 @@ Give the Abstract, Introduction, Discussion, and Conclusion particular attention
 | Discussion | Explain what the findings mean for the original question and existing knowledge. Develop implications and useful insights, rather than simply repeating the results. |
 | Conclusion | Leave readers with the contribution and a meaningful takeaway about what the work establishes or enables. |
 
+Spend the abstract's limited words on the problem, contribution, and takeaway. Use acronyms familiar to the venue's readers without automatically spelling them out; introduce full names at the first relevant use in the main text. For unfamiliar terminology, prefer a brief plain-language description, expanding the acronym only when needed for understanding or required by the venue.
+
 Also attend to the title, figures, and captions as independent entry points. Methods and results should supply the explanation and evidence needed to understand and assess the work.
 
 ## Use familiar terminology and concrete substance
