@@ -38,7 +38,7 @@ Also attend to the title, figures, and captions as independent entry points. Met
 
 ## Use familiar terminology and concrete substance
 
-Prefer established terminology from the relevant research and industry. Explain unfamiliar terms where needed and use names consistently. Do not invent labels or rebrand familiar ideas to imply novelty; preserve the author's system names and defined concepts.
+Prefer established terminology from the relevant research and industry. Introduce an unfamiliar concept through a simple, concrete explanation of what it does or means, then give its precise technical name, in parentheses when useful. Once introduced, reuse that term consistently across sections, headings, captions, and figures. Avoid changing labels for stylistic variety; different terms should mark meaningful distinctions. Preserve the author's system names and defined concepts, and do not invent labels or rebrand familiar ideas to imply novelty.
 
 Replace generic praise with the actual mechanism, comparison, observation, or insight. Include enough detail to explain what was done and why it matters. Concision should remove repetition and filler while retaining the connections readers need.
 

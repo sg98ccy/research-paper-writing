@@ -14,6 +14,18 @@ An explanation, if these are the documented capabilities:
 
 The situation gives the features a purpose and shows how they work together. A later section can explain the underlying mechanism without making readers reconstruct the interaction first.
 
+## Explain a concept before naming it, then keep the name stable
+
+For a system with the documented capabilities below, a first introduction could read:
+
+> Users can inspect and change the code that describes the document's current contents (an editable representation).
+
+The explanation gives the technical term a concrete referent. A later passage can use the established term:
+
+> Later AI requests use the latest saved editable representation.
+
+Keep that term stable instead of introducing new labels for the same thing. Different wording is useful when it distinguishes genuinely different concepts. Parentheses are optional, and terminology already familiar to the intended reader may not need an introductory explanation.
+
 ## Connect a major choice to its rationale
 
 Provided facts:
