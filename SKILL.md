@@ -1,6 +1,6 @@
 ---
 name: research-paper-writing
-description: Draft, revise, and review research papers to communicate the central idea, motivate the contribution, explain major decisions, and guide the reader. Use for substantive manuscript or section work, especially the Abstract, Introduction, Discussion, Conclusion, and LaTeX presentation. Use clear-writing for prose clarity alone.
+description: Develop venue-focused stories and draft, revise, and review research papers to communicate the central idea, motivate the contribution, explain major decisions, and guide the reader. Use for manuscript framing and substantive section work, especially the Abstract, Introduction, Discussion, Conclusion, and LaTeX presentation. Use clear-writing for prose clarity alone.
 ---
 
 # Research Paper Writing
@@ -9,6 +9,12 @@ Make the paper's idea easy to understand and worth reading. Help readers see the
 
 Adapt this guidance to the discipline, paper type, author, and venue. It does not prescribe a section order, contribution count, sentence length, or visual template. Use clear-writing when available for prose clarity and continuity; this skill remains usable on its own.
 
+## Develop the story for the venue before drafting
+
+Before drafting a new paper or substantially reframing one, brainstorm the central story with the author. Consider the intended readers, their background, the problem they will care about, and what the contribution changes. Compare plausible angles when useful and recommend a direction with clear rationale.
+
+Shape the story for the venue. For HCI venues, foreground people's tasks, interaction problems, and the implications for their experience or practice, while explaining the technical decisions that support the contribution. Build on an agreed direction; routine edits do not require restarting this discussion.
+
 ## Communicate the idea and its significance
 
 Identify the central question or problem and explain why it matters. Give readers the context needed to understand what prior work enables, what remains unresolved, and how this paper responds. Make the contribution concrete: what readers learn, what becomes possible, or what understanding changes.
@@ -16,6 +22,10 @@ Identify the central question or problem and explain why it matters. Give reader
 Build a connected argument rather than a list of features or studies. Each part should develop the idea and prepare readers for what follows. A familiar example, figure, or short walkthrough can make the mechanism easier to picture.
 
 Frame the gap fairly without unnecessarily shrinking the work's audience, purpose, or applications. Distinguish the paper's demonstrated task from the broader idea. Present supported contributions confidently; include qualifications where they affect understanding.
+
+## Develop the broader takeaway
+
+Identify the transferable insight, concept, or mechanism behind the demonstrated work. Prefer a focused Discussion subsection when this broader takeaway merits one. Explain what readers can carry into other settings or understand more generally, why the reasoning transfers, and what would need adapting. Use a concrete example where helpful, and connect this takeaway to the Introduction and Conclusion.
 
 ## Explain the major decisions
 
